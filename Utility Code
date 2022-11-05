@@ -1,0 +1,5 @@
+#Clear the environment
+rm(list = ls())
+
+#Clear the console 
+#Press the “Option” + “Command” + “L” keys simultaneously.
